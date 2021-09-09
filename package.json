@@ -1,0 +1,17 @@
+{
+  "name": "reporter-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "1.14.1",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
